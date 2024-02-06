@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Prajwal-1718
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning System Verilog, RTL Designing, FPGA Design and Development
-- 💞️ I’m looking to collaborate on FPGA Design and Development
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prajwal H O
+- 👀 I’m interested in the field of Data Science
+- 🌱 I’m currently learning the Machine Learning and NLP concepts
+- 📫 You can reach me out on
+        - LinkedIn : https://www.linkedin.com/in/prajwal-h-o-4838601a6/
+        - Gmail : prajwalho1234@gmail.com
 
 <!---
 Prajwal-1718/Prajwal-1718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
